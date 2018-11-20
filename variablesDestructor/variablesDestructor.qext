@@ -1,0 +1,15 @@
+{
+	"name": "variablesDestructor",
+	"description": "Delete Variables of the application",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Baptiste Durand",
+	"homepage": "",
+	"keywords": "qlik-sense, variables, destructor",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
