@@ -35,7 +35,7 @@ It is possible to specify a list of variables or a search string (case sensitive
 ## Warning :
 No confirmation popup!
 
-In case of a huge amount of variables, I recommand to wait until the processing is finished before other actions.
+In case of a huge amount of variables, I recommend to wait until the processing is finished before another action.
 
 Browser web development console allows to follow the process.
 
@@ -45,9 +45,9 @@ Qlik Sense >=3
 
 # Limitations
 
-For an utilization with Qlik Sense Desktop, use it through an external browser (Chrome or Mozilla).
+For an utilization with Qlik Sense Desktop, use it in an external browser (Chrome or Mozilla).
 
-Reminder : Url should be :
+Reminder, Url should be :
 
 `http://localhost:4848/hub/`
 
